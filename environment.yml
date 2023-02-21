@@ -1,0 +1,7 @@
+name: Rclone_BIA
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python ~= 3.9.0
+  - rclone = 1.61.1
