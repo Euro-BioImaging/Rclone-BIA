@@ -23,7 +23,7 @@ and replace `<YOUR-SECRET-DIRECTORY>` in the following command: \
 
 To upload a single file to your BIA user space: \
 `rclone --config /path/to/new.rclone.conf copy /local/path/filename ftp:/<YOUR-SECRET-DIRECTORY>/remote/path/` \
-(Note that here you should not specify the remote file name as it will be the same as in the local file.) \
+(Note that here you should not specify the remote file name as it will be the same as in the local file.)
 
 To upload a folder to your BIA user space: \
 `rclone --config /path/to/new.rclone.conf sync /local/path/foldername ftp:/<YOUR-SECRET-DIRECTORY>/remote/path/foldername/` \
