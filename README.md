@@ -11,7 +11,9 @@ be run on the Unix shells as well as on the Windows CMD.
 Clone the repository: \
 `git clone https://github.com/Euro-BioImaging/Rclone-BIA.git` \
 Then cd to the directory of the repository and create a conda environment with the Rclone package: \
-`conda env create -f environment.yml`
+`conda env create -f environment.yml` \
+Then activate the environment \
+`conda activate Rclone_BIA`
 
 ### Examples: 
 
