@@ -3,8 +3,12 @@
 This repository facilitates exchange of data between your filesystem and your user space at 
 the BioImage Archive using the Rclone package.
 
-Rclone package is available for Unix-like systems as well as Windows. So the examples given below can also
-be run on Windows command line.
+Rclone package is available for Unix-like systems as well as Windows. So the examples given below can
+be run on the Unix shells as well as on the Windows CMD.
+
+### Installation
+
+Clone the repository: 
 
 ### Examples: 
 
