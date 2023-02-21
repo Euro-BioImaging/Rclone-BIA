@@ -8,7 +8,9 @@ be run on the Unix shells as well as on the Windows CMD.
 
 ### Installation
 
-Clone the repository: 
+Clone the repository: `git clone https://github.com/Euro-BioImaging/Rclone-BIA.git` \
+Then cd to the directory of the repository and create a conda environment with the Rclone: \
+`conda env create -f environment.yml`
 
 ### Examples: 
 
